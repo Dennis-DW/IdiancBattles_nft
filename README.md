@@ -54,8 +54,8 @@ npm install ethers@5.7.2
 ## Deployed the NFTs On-Chain Metadata Smart Contract
 
 🥾 Two applications 
-2. ☝️ Alchemy .com 
-3. 🎯 Polygonscan.com
+ ☝️ Alchemy .com 
+ 🎯 Polygonscan.com
 
 ---
 
