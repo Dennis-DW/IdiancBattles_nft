@@ -65,7 +65,7 @@ npm install ethers@5.7.2
 
 ---
 
-# IdiancBattles/sol
+## IdiancBattles.sol
 Certainly! The provided Solidity code defines a contract called `IdiancBattles`, an ERC721 token (NFT) that includes functionality for creating and managing unique tokens representing characters for battles.
 
 
