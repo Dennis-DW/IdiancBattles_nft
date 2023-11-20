@@ -59,7 +59,7 @@ npm install ethers@5.7.2
 
 ---
 
-# View your Dynamic NFT On OpenSea
+### View your Dynamic NFT On OpenSea
 
 -testnet.opensea.com:
 
