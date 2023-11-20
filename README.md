@@ -20,7 +20,6 @@ This project demonstrates a basic fully dynamic NFT with on-chain metadata that 
 
 ![deployment](imgs/IDIANCBATTLES_NFT.png)
 
-https://testnets.opensea.io/assets/mumbai/0x2a438d3ceb13f31084def51fc06237cc324b07a5/1
 
 ## Steps To Add Polygon Mumbai to your Metamask Wallet
 
