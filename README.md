@@ -38,10 +38,6 @@ npx hardhat test
 npx hardhat run scripts/Deploy.js
 ```
 
-```
-
-```
-
 ## npm Install Commands: of the Dependencies
 
 ```shell
@@ -53,13 +49,13 @@ npm install dotenv@16.3.1
 npm install ethers@5.7.2
 ```
 
-```
 
-```
 
 ## Deployed the NFTs On-Chain Metadata Smart Contract
 
-🥾 Two applications 2. ☝️ Alchemy .com 3. 🎯 Polygonscan.com
+🥾 Two applications 
+2. ☝️ Alchemy .com 
+3. 🎯 Polygonscan.com
 
 ---
 
